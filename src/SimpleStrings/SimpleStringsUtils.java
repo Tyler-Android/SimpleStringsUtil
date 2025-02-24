@@ -1,3 +1,5 @@
+package SimpleStrings;
+
 import java.util.HashMap;
 
 /**
